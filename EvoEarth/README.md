@@ -1,4 +1,4 @@
-Note : This project is still under development and completely organised
+Note : This project is still under development and not completely organised
 # 🌍 EvoEarth
 
 **EvoEarth** is a digital ecosystem designed to empower individuals through technology, self-development, and financial literacy.  
